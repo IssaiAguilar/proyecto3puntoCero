@@ -1,6 +1,25 @@
-header nav img {
+body header nav img {
 
     height: 150px;
     margin-left: 3vw;
     margin-right: 10vw;
 }
+
+.contenedorGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    
+}
+
+
+ul div img {
+    height: 300px;
+  
+}
+
+ul li {
+    list-style-type: none;
+}
+
+
