@@ -1,3 +1,16 @@
+
+#imagen1{
+    width: 100vmax;
+}
+
+#imagen2 {
+    width: 100vmax;
+}
+
+#imagen3 {
+    width: 100vmax;
+}
+
 body header nav img {
 
     height: 150px;
@@ -8,7 +21,6 @@ body header nav img {
 .contenedorGrid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    justify-content:  center;
 
     
 }
@@ -16,11 +28,20 @@ body header nav img {
 
 ul div img {
     height: 200px;
+    width: 31vw;
   
 }
 
 ul li {
     list-style-type: none;
 }
+
+footer div h6 {
+    display: inline;
+}
+
+
+
+
 
 
