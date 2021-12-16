@@ -1,0 +1,13 @@
+$colorTitulos: rgb(192, 112, 112);
+$styleParrafo: double 2px black;
+
+main {
+    section {
+        h2 {
+            color: $colorTitulos;
+        }
+        p {
+            border: $styleParrafo;
+        }
+    }
+}
