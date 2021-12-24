@@ -2,4 +2,5 @@ main section h2 {
   color: #c07070; }
 
 main section p {
-  border: double 2px black; }
+  border: double 2px black;
+  font-style: oblique; }
